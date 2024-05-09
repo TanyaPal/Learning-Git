@@ -1,3 +1,5 @@
 Good morning.
  This is my first file.
  Testing git push to GIT HUB.
+
+Git branching test. To check how branching works.
